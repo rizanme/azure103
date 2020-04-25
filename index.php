@@ -3,9 +3,9 @@
 <body>
 
 <?php
-ECHO "Hello World!<br>";
-echo "Hello World!<br>";
-EcHo "Hello World!<br>";
+ECHO "Rizan Buhary!<br>";
+echo "Azure 103!<br>";
+EcHo "Buh ha haa!<br>";
 ?>
 
 </body>
